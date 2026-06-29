@@ -37,7 +37,7 @@ Vid_Snap_AI/
 
 ## 🚀 Installation
 
-```bash
+bash
 git clone https://github.com/Sanchit-Sharma-07/Vid_Snap_AI.git
 
 cd Vid_Snap_AI
@@ -50,6 +50,8 @@ Multiple AI voice options
 Background music
 Automatic caption styling
 Social media export
-Author
+
+## Author
 
 Sanchit Sharma
+```
