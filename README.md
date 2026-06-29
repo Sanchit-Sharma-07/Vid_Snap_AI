@@ -38,7 +38,7 @@ Vid_Snap_AI/
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/yourusername/Vid_Snap_AI.git
+git clone https://github.com/Sanchit-Sharma-07/Vid_Snap_AI.git
 
 cd Vid_Snap_AI
 
